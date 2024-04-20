@@ -5,6 +5,7 @@ use std::path::PathBuf;
 mod broadcast;
 mod check;
 mod checkpoint;
+pub mod chess_engine;
 mod exec;
 mod externs;
 mod genesis;
